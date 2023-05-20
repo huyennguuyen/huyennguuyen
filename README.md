@@ -12,13 +12,6 @@
   <img src="./gifs/screen.gif" />
 </div>
 
-<h3>About Me</h3>
-
-- 💻 Looking for work! Check out my projects below. ⬇️
-- 🏫 Just graduated from App Academy!
-- 🎨 My favorite hobby would be painting!
-- 🏙️ I love traveling and am manifesting a life filled with adventures ~
-- 🎙️ My favorite artist is Frank Ocean
 - 🙆‍♀️ Let's connect:
         <a href="https://www.linkedin.com/in/huyen-nguyen-2804b523b/">
         <img src="https://skillicons.dev/icons?i=linkedin" />
