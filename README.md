@@ -12,14 +12,6 @@
   <img src="./gifs/screen.gif" />
 </div>
 
-- 🙆‍♀️ Let's connect:
-        <a href="https://www.linkedin.com/in/huyen-nguyen-2804b523b/">
-        <img src="https://skillicons.dev/icons?i=linkedin" />
-        </a>
-    
-
-
-
 <h3>Stats</h3>
 <div style="display: flex; flex-direction: row;" align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=huyennguuyen&show_icons=true&theme=dracula" />
@@ -50,3 +42,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg" title="ubuntu"  alt="ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
 </div>
+
+
+🙆‍♀️ Let's connect:
+        <a href="https://www.linkedin.com/in/huyen-nguyen-2804b523b/">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+        </a>
